@@ -4,4 +4,4 @@
 
 #### Emma Spanjaard, Ihor Smal, Nicos Angelopoulos, Ingrid Verlaan, Alex Matov, Erik Meijering, Lodewyk Wessels, Hans Bos, Johan de Rooij "Quantitative Imaging of Focal Adhesion Dynamics and their Regulation by HGF and Rap1 Signaling (2014)"
 
-##### https://researchgate.net/publication/269171265_Quantitative_imaging_of_focal_adhesion_dynamics_and_their_regulation_by_HGF_and_Rap1_signaling
+### For detailed information, see: https://www.researchgate.net/publication/388842022_Quantitative_Cell_Division_and_Migration_in_Medicine
